@@ -1,0 +1,8 @@
+{
+    "name": "yeticave",
+    "description": "Личный проект «YetiCave» от HTML Academy",
+    "type": "project",
+    "require": {
+        "respect/validation": "2.0.x-dev"
+    }
+}
